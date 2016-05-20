@@ -26,3 +26,16 @@
 *.exe
 *.out
 *.app
+
+#Images
+*.jpg
+*.jfif
+*.jpe
+*.jpeg
+
+#Models
+*.caffemodel
+*.binaryproto
+
+#LMDB
+*.mdb
